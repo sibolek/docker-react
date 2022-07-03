@@ -5,7 +5,7 @@ services:
 
 
 before-install:
-  - docker build -t hirschstevenw/dokcer-react -f Dockerfile.dev .
+  - docker build -t hirschstevenw/docker-react -f Dockerfile.dev .
 
 
 
